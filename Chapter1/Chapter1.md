@@ -1,4 +1,4 @@
-                                          Introduction to Computing
+                                                Introduction to Computing
 1.1 Computing Systems（Omit)
 1.2 Computer Organization
 
@@ -13,9 +13,12 @@ Those operations that are arithmetical or logical in nature are carried out usin
 the circuits of the arithmetic-logic unit(ALU) of the CPU.
 
 These operations are known as processing.
+
                                                 CPU = Central Processing Unit
                                                 
+                                                
 <img width="323" alt="cpu" src="https://cloud.githubusercontent.com/assets/11711081/26626952/a0e183a0-45ad-11e7-940a-fee89b813326.png">
+
 
 In contrast to the one-instruction-at-a-time operation by the CPU in the von Neumannn architecture, parallel processing computers improve
 performance by employing two or more CPUS.The world's fastest supercompters employ thousands of CPU chips and for this reason are termed 
