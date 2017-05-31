@@ -17,7 +17,7 @@ These operations are known as processing.
                                            
        
                                           
-==================================================Major components of a computing system==================================
+  ==================================================Major components of a computing system==================================
 
 In contrast to the one-instruction-at-a-time operation by the CPU in the von Neumannn architecture, parallel processing computers improve
 performance by employing two or more CPUS.The world's fastest supercompters employ thousands of CPU chips and for this reason are termed 
