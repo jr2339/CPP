@@ -15,16 +15,23 @@ the circuits of the arithmetic-logic unit(ALU) of the CPU.
 These operations are known as processing.
                                                 CPU = Central Processing Unit
                                                 
-                               ----------------------------------------------------------------------
+                               ---------------------------------------------------------------------- 
+                               
  ---------------              |                                                                      |
+ 
 | Input devices |-------------|---------|                                                            |
+
  ---------------              |    ==============                     =======================        |
+ 
                               |   | Control Unit |<------------------>|Arithmrtic logic unit |       |
                               |    ==============                     =======================        |
                               |         | |   |                                      |               |
   ----------------            |         | |   |                                      |               |
+  
  | Output devices |-----------|---------- |   |                                      |               |
+ 
   ----------------            |           |   |                                      |               |
+  
                               |           |   |                                      |               |
                               |           |   |                                      |               |
                                -----------|---|--------------------------------------|-----------------
@@ -40,6 +47,7 @@ These operations are known as processing.
                                 -----------------
                                           
 ==================================================Major components of a computing system==================================
+
 In contrast to the one-instruction-at-a-time operation by the CPU in the von Neumannn architecture, parallel processing computers improve
 performance by employing two or more CPUS.The world's fastest supercompters employ thousands of CPU chips and for this reason are termed 
 massively parallel processing computer.
