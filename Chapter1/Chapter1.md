@@ -32,7 +32,26 @@ power of systems with thousands of processors.
 
 1.2.2 Storage
 
-The memory unit 
+The memory unit of a computer system serves servel purposes.
+
+Main memory is also knowns internal, primary, or random access memory(RAM), and its main function is store 
+the instructions and data of the programs being executed.
+
+Most modern computers also have a smaller amount of high-speed memory called cache memory that is usually on
+the same chip as the CPU.
+
+It is used to speed up execution by storing a set of recent or current instructions being executed so they need
+not be fetched from main memory.
+
+Also, as part of the CPU's processing, it may need to temporarily write down(store) a numbrt and read(retrieve) it 
+later.
+
+The CPU can use main memory in this manner, but there is also a set of special high-spped memory locations within the
+CPU called registers.
+
+Values that stored in registers can typically be accessed thousands of times faster than values that are stored in RAM
+
+One problem with RAM and registers in that they are volatile；that is, if the power to the computing system is shut off. 
 
 
 
