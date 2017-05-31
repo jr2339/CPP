@@ -14,6 +14,7 @@ the circuits of the arithmetic-logic unit(ALU) of the CPU.
 
 These operations are known as processing.
                                                 CPU = Central Processing Unit
+                                                
                                ----------------------------------------------------------------------
  ---------------              |                                                                      |
 | Input devices |-------------|---------|                                                            |
