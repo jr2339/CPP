@@ -1,4 +1,4 @@
-                                                  Programming in C++ for Engineering and Science
+                                            Programming in C++ for Engineering and Science
 
 Chapter1: Introduction to Computing
 
