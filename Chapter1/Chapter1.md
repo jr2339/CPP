@@ -39,7 +39,8 @@ Main memory is also knowns internal, primary, or random access memory(RAM), and 
 the instructions and data of the programs being executed.
 
 Most modern computers also have a smaller amount of high-speed memory called cache memory that is usually on
-the same chip as the CPU.
+the same chip as the CPU.It is used to speed up execution by storing a set of recent or current instructions 
+being executed so they need not be fetched from main memory.
 
 It is used to speed up execution by storing a set of recent or current instructions being executed so they need
 not be fetched from main memory.
@@ -53,6 +54,9 @@ CPU called registers.
 Values that stored in registers can typically be accessed thousands of times faster than values that are stored in RAM
 
 One problem with RAM and registers in that they are volatile；that is, if the power to the computing system is shut off. 
+(either intentionally or accidentally), values that stored in these memory compoments are lost.
+
+
 
 
 
