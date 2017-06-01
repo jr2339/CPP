@@ -30,8 +30,7 @@ A value of one of these type is called a literal.</br>
 3.2.1.1 Integers</br>
 Integer literals are string of digits that may be preceded by a - sign or a + sign. They are interpreted as</br>
 Octal(base-eight): integers if they begin with 0 and all digits are octal digits0,1,....,7<br>
-Hexadecimal(base-sixteen): integers if they with 0x --- the hexadecimal digitals for ten, eleven,...,fifteen are A,B,...F 
-or their lowcase equivalents a,b,....f<br>
+Hexadecimal(base-sixteen): integers if they with 0x --- the hexadecimal digitals for ten, eleven,...,fifteen are A,B,...F or their lowcase equivalents a,b,....f<br>
 decimal(base-ten):integers otherwise
 
 
