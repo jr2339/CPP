@@ -14,8 +14,7 @@ that because of radiocative decay, the amount that remains after 140 days is one
 3.1.2.1 Behavior</br>
 The problem should output to the screen a prompt for the name of radioactive element, its half-life, the initial amout, and a time period.
 It will then read these values from the keyboard.The program should then compute the amount remaining after the specified time peroid and output the input values along with this value to the screen.</br>
-3.1.2.2 Objects</br>
-From our behavioral description, we can 
+
 
 
 
