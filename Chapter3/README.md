@@ -3,7 +3,7 @@
 3.2 Types, Literals, Variables, and Constants</br>
 3.3 Data Representation</br>
 
-Chapter Summary
+Chapter Summary</br>
 Test Yourself
 
 
