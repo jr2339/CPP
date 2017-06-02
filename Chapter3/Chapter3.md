@@ -28,6 +28,7 @@ booleans: logical values true and false: of type bool</br>
 A value of one of these type is called a literal.</br>
 
 3.2.1.1 Integers</br>
+
 Integer literals are string of digits that may be preceded by a - sign or a + sign. They are interpreted as</br>
 Octal(base-eight):</br> 
             
