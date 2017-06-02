@@ -59,6 +59,31 @@ An unsigned int(or just unsigned):</br>
  
      is usually a 32-bit or 64-bit value, ranging from 0 through 2^32-1 or 0 through 2^64-1
            
+3.2.1.2 Reals</br>
+
+    A value of type folat is usually a 32-bit real value; a double is usually a 64-bitreal value; and a long double is typically a 96-bit or 128-bit real value.
+    
+3.2.1.3 Characters</br>
+     
+    Character literals are single characters enclosed in single quotes(or apostorphes); for example. 'A','z','#','8',and '/'.
+    
+3.2.1.4 Other Types(Omit)</br>
+
+3.2.2 Identifiers</br>
+      
+    The program code uses names for some of the software objects: element for the radiocative element, halfLife for half-life, time for time period, and initialAmount and amountRemaining for amounts of the element. Suach names as known as identifiers.
+    
+3.2.3 Variables</br>
+
+    In computing, the word variable refers to a memory location in which values can be stored and later retrived. One of the tasks of a compiler is to associate such as a memory location with each identifier in a program that names a variable.
+    To do this, it must know the name of variable and the type of values it may have so that it can allocate a memory location of the approciate size and form.
+    This is the purpose of a variable declarartions, which have the Following form:
+    VARIABLE DECLARATION:
+    FORMS:
+      type variable_name;
+      type variable_name = initializer_expression;
+    where type is one of the fundamental data type(or one of the data types discussed later), and variable_name is a valid C++ identifier.
+
 
 
 
