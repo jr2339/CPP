@@ -31,14 +31,32 @@ A value of one of these type is called a literal.</br>
 Integer literals are string of digits that may be preceded by a - sign or a + sign. They are interpreted as</br>
 Octal(base-eight):</br> 
             
-            integers if they begin with 0 and all digits are octal digits0,1,....,7<br>
+            integers if they begin with 0 and all digits are octal digits0,1,....,7
 Hexadecimal(base-sixteen):</br> 
 
-            integers if they with 0x --- the hexadecimal digitals for ten, eleven,...,fifteen are A,B,...F or their lowcase equivalents a,b,....f<br>
+            integers if they with 0x --- the hexadecimal digitals for ten, eleven,...,fifteen are A,B,...F or their lowcase equivalents a,b,....f
 decimal(base-ten):</br>
 
             integers otherwise
+Short int(or just short):</br>
 
+            values usually are usually stored in 16bits(3 bytes) and can range from -2^15(=-32768) through 2^15-1(=32767)
+            
+Long int(or just long):</br>
+    
+            values are the same as int values in some versions of C++, while in others they are 64-bit values, ranging from -2^63 to 2^63 -1.
+            
+An unsigned int(or just unsigned):</br>
+    
+            is a nonnegative integer whose size usually is the word size of the particular machine being used, typically 0 through 2^32-1(=4294967295)
+            
+ An unsigned short:</br>
+ 
+            is usually a 16-bit value, ranging from 0 through 2^16-1(=65535)
+ An unsigned long:</br>
+ 
+            is usually a 32-bit or 64-bit value, ranging from 0 through 2^32-1 or 0 through 2^64-1
+           
 
 
 
