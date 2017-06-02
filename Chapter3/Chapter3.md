@@ -19,6 +19,7 @@ It will then read these values from the keyboard.The program should then compute
 
 # 3.2 Types, Literals, Variables, and Constants</br>
 3.2.1 Fundamental Types</br>
+
 The most important fundamental data types provided in C++ are the following:</br>
 integers: whole number and their negatives: of type int</br>
 integer variations: types short, long and unsigned</br>
